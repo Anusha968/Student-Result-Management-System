@@ -1,21 +1,24 @@
+
 # Student Result Management System
 
-This project is built using Python and MySQL.
+## 📌 Description
+This project is built using Python and MySQL to manage student records.
 
-## Features
-- Add student records
-- View all students
-- Update student marks
-- Delete student records
+## 🚀 Features
+- Add Student
+- View Students
+- Update Marks
+- Delete Student
 
-## Technologies Used
+## 🛠 Technologies Used
 - Python
 - MySQL
 - mysql-connector-python
 
-## How to Run
-1. Install MySQL and create database.
-2. Install mysql connector using:
+## ▶️ How to Run
+1. Install MySQL
+2. Create database and table
+3. Install dependencies:
    pip install mysql-connector-python
-3. Run the program:
+4. Run:
    python main.py
